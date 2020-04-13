@@ -1,0 +1,21 @@
+.hero {
+  background: url(images/paul-earle-xJ2tjuUHD9M-unsplash.jpg) center / cover;
+}
+a {
+  color: #243C52;
+  text-decoration: none;
+}
+.card {
+  height: 450px;
+  width: 350px;
+  margin-bottom: 1em;
+}
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+p > a {
+  margin: 2em;
+}

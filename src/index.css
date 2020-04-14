@@ -17,5 +17,11 @@ a {
 }
 
 p > a {
-  margin: 2em;
+  margin: 1em;
+}
+p {
+  margin-top: 1em;
+}
+footer {
+  margin-top: 2em;
 }

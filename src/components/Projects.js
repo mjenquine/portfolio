@@ -14,9 +14,6 @@ class Projects extends Component {
     return (
       <div>
         <div>
-          <div className="column is-4 is-offset-4 has-text-centered is-size-2">
-            Projects
-          </div>
           <div className="cards">
             <a href="https://tranquil-everglades-83050.herokuapp.com/new/1">
               <div className="card">

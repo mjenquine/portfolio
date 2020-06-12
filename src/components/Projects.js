@@ -30,7 +30,7 @@ class Projects extends Component {
                     </div>
                   </div>
                   <div className="content">
-                    A reading log app for parents and children to track reading comprehension.
+                    A trail conditions log for local riders to add real time updates.
                   </div>
                 </div>
               </div>
@@ -70,7 +70,7 @@ class Projects extends Component {
                     </div>
                   </div>
                   <div className="content">
-                    Online shop for boots. A group project utilizing github for version control.
+                    Online shop for boots. A group project utilizing github for CI/CD version control.
                   </div>
                 </div>
               </div>
